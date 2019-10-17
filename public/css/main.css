@@ -1,7 +1,14 @@
 body {
   padding-top: 50px;
   font-family: Product sans;
+  background-color: #222222;
 }
 #headshot {
     width: 500px;
+}
+#player{
+  margin-top: 50px;
+}
+.navbar-brand{
+  color: #ff0000 !important;
 }
