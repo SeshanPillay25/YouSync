@@ -1,6 +1,6 @@
 # YouSync
 
-## I promise to be more descriptive soon..
+## An application that lets you sync basic video functions (pause,play,etc), between two people 
 
 
 This application supports the [Getting Started with Node on Heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs) article - check it out.
